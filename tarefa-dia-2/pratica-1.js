@@ -8,3 +8,8 @@ seuEmail = "clarenceaguiar@gmail.com"
 suaProfissao = "Administrador"
 suaIdade = 39
 lugarQueSonhaConhecer = "Porto"
+console.log(seuNome)
+console.log(seuEmail)
+console.log(suaProfissao)
+console.log(suaIdade)
+console.log(lugarQueSonhaConhecer)
